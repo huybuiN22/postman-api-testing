@@ -1,4 +1,4 @@
-BÁO CÁO KIỂM THỬ API VỚI POSTMAN                                                                  
+BÁO CÁO KIỂM THỬ API VỚI POSTMAN.                                                                
 1. Mục tiêu kiểm thử
 Sử dụng công cụ Postman để thực hiện kiểm thử API thông qua các phương thức HTTP phổ biến.
 Thông qua bài thực hành, sinh viên làm quen với việc tạo Collection, tạo Request, gửi yêu cầu đến API, kiểm tra kết quả trả về và sử dụng chức năng Test của Postman để tự động kiểm tra kết quả.
