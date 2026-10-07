@@ -74,8 +74,7 @@ Các dữ liệu được kiểm tra trong Response đều đúng với kết qu
 Trạng thái
 Thành công.
 Kết quả sau khi kiểm thử
-<img width="1920" height="1080" alt="post1" src="https://github.com/user-attachments/assets/2d84291d-0a3d-4866-8923-b09b0af5c144" /><img width="1920" height="1080" alt="put" src="https://github.com/user-attachments/assets/04b39087-ae81-47f8-87f1-1502c5f08224" />
-<img width="1920" height="1080" alt="put" src="https://github.com/user-attachments/assets/34f78501-cb8c-40ba-8500-9a617ed75fa6" />
+<img width="1920" height="1080" alt="post1" src="https://github.com/user-attachments/assets/2d84291d-0a3d-4866-8923-b09b0af5c144" />
 
 Kết quả kiểm thử chi tiết
 Kiểm tra Status Code 201: Thành công.
