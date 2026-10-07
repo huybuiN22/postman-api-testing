@@ -1,4 +1,4 @@
-BÁO CÁO KIỂM THỬ API VỚI POSTMAN
+  BÁO CÁO KIỂM THỬ API VỚI POSTMAN
                                                                           
 1. Mục tiêu kiểm thử
 Sử dụng công cụ Postman để thực hiện kiểm thử API thông qua các phương thức HTTP phổ biến.
